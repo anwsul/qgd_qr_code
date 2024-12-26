@@ -1,1 +1,0 @@
-generate and decode qr codes
